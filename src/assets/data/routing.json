@@ -1,0 +1,8 @@
+[{
+    "path": "routeone",
+   "component":"RouteoneComponent"
+},
+{
+    "path": "routetwo",
+   "component":"RoutetwoComponent"
+}]
